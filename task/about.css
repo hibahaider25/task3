@@ -1,0 +1,14 @@
+body{
+    background-image: url(./aboutmeeting.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    background-color: #e0e0e0;
+      direction: rtl;
+      float: right;
+       color: black;
+       
+       font-size: 25px;
+ 
+ }
